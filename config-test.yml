@@ -1,2 +1,2 @@
 config:
-  info: config info version=1.0
+  info: config info profile=test version=1.0
